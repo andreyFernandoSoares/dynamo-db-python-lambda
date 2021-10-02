@@ -5,9 +5,7 @@
             "Sid": "VisualEditor0",
             "Effect": "Allow",
             "Action": [
-                "dynamodb:PutItem",
-                "dynamodb:DeleteItem",
-                "dynamodb:GetItem"
+                "dynamodb:PutItem"
             ],
             "Resource": "*"
         },
